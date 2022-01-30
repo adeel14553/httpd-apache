@@ -1,3 +1,3 @@
 ### What it does
-A simple docker build file for apacher webserver for any docker registry
+A simple dockerbuild file for apache webserver for any docker registy
 
